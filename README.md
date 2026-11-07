@@ -204,3 +204,6 @@ This repository serves as the official landing page for AD ACL Scanner. The soft
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of AD ACL Scanner today!**
+
+---
+**Last updated:** 2026-11-07 15:58:48 UTC
