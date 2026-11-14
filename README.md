@@ -206,4 +206,4 @@ This repository serves as the official landing page for AD ACL Scanner. The soft
 **Get the most recent version of AD ACL Scanner today!**
 
 ---
-**Last updated:** 2026-11-14 00:11:23 UTC
+**Last updated:** 2026-11-14 07:13:32 UTC
